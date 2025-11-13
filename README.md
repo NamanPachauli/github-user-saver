@@ -1,5 +1,5 @@
 
-GITHUB USER SAVER - GOLANG | DOCKER | KUBERNETES | GIT & GITHUB
+# 🚀 GITHUB USER SAVER - GOLANG | DOCKER | KUBERNETES | GIT & GITHUB
 
 ## 📌 Overview
 GitHub Saver is a **Go-based microservice** that fetches and stores GitHub user information using the **GitHub REST API**.  
